@@ -1,0 +1,35 @@
+@charset "utf-8";
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: 36px;
+	font-weight: bold;
+	color: #333;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 28px;
+	font-weight: bold;
+	color: #333;
+}
+
+p, a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+
+a {
+	color:#09F;
+}
+
+a:hover {
+	color:#009;	
+}
+
+a:visited {
+	color:#999;	
+}

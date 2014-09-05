@@ -1,0 +1,30 @@
+{
+    "title": "THWARP! Episode 2: Panic at the Pickle Plant",
+    "subTitle": "Winter 2011",
+    "role": "Developed the second iteration of the THWARP AS 3 Game Engine.",
+    "url": "http://www.teletoon.com/en/games/thwarp/episodeTwoSteamPunk/",
+    "gallery": [
+        {
+			"src":"images/large/camp-teletoon-api.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/camp-teletoon-api.jpg",
+			"desc":"Camp Teletoon"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "A side-scrolling action game with the following features:",
+            "items": [
+                "multiple levels",
+		    "character selection",
+                "weapons",
+                "various types of enemies",
+		    "checkpoints to determine level completion",
+                "parallax engine"
+            ]
+        }
+    ]
+}

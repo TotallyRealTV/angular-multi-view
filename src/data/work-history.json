@@ -1,0 +1,84 @@
+{
+	"title": "Work History",
+	"items":[
+		{
+    			"title": "Teletoon Canada Inc.",
+    			"subTitle": "April 2011 - January 2014",
+    			"position": "Senior Developer (Full Stack)",
+				"technologies": "php, MySQL, css, Javascript, jQuery, Brightcove API, Facebook API, Twitter API, design patterns, WinSCP, version control, AGILE methodologies",
+    			"description": "I have planned and developed a range of user-facing and internal modules that are strategically aligned with departmental goals, including:",
+            	"details": [
+                	"a CMS that manages and publishes game, tv show and video content for Teletoon, Cartoon Network, Teletoon Retro and Adult Swim",
+					"a php API to collect and store game play data, activity usage, contest entry data, link data and poll data across all of our properties",
+					"a php library to abstract repetitive tasks (PDO, file transfer, file generation, data output) from specific implementations",
+					"a game play stats admin tool which archives monthly game plays and publishes csv files of statistics for each fiscal year / quarter",
+                	"a variety of front-end modules in Actionscript 3, jQuery and css",
+                	"the occasional Actionscript 3 game"
+                ]
+		},
+		{
+    			"title": "Pan Vista Media Inc.",
+    			"subTitle": "August 2009 - April 2011",
+    			"position": "Actionscript / Mobile Developer",
+				"technologies": "Actionscript 3, AIR, Objective-C, version control, AGILE methodologies",
+    			"description": "",
+            	"details": [
+                	"developed Actionscript 3 / AIR news reader applications that could be embedded anywhere / downloaded",
+					"developed an iOS application news reader framework in Objective-C",
+					"the iOS framework could be automatically compiled with custom colours, fonts and navigation",
+                	"iphone apps were deployed for law firms in Toronto such as Nortion Rose, Davies Ward and Torys"
+            	]
+		},
+		{
+    			"title": "Kolody Inc.",
+    			"subTitle": "September 2006 - August 2009",
+    			"position": "Developer",
+				"technologies": "Actionscript 1,2 & 3, php, MySQL, Javascript",
+    			"description": "Developed websites for such clients as:",
+            	"details": [
+                	"Sennheiser",
+					"Trojan",
+					"Shaftesbury Films",
+                	"Edelman",
+                	"Family Channel",
+				     "Teletoon"
+                ]
+		},
+		{
+    			"title": "Teletoon Canada Inc.",
+    			"subTitle": "September 2004 - August 2006",
+    			"position": "Developer",
+				"technologies": "Actionscript 1, php, MySQL, Javascript",
+    			"description": "Developed contests and Flash modules for:",
+            	"details": [
+                	"Teletoon Daytime",
+					"The Detour"
+				]
+		},
+		{
+    			"title": "Marketspace Design Group",
+    			"subTitle": "February 2002 - September 2004",
+    			"position": "Web Designer",
+				"technologies": "Actionscript 1, Javascript, html, css",
+    			"description": "Designed and produced websites for such brands as:",
+            	"details": [
+                	"Ford",
+					"Mazda",
+					"Siemens",
+                	"Colgate",
+                	"Olay",
+					"Black Diamond",
+					"Playex",
+					"Parmalat",
+					"Clubhouse",
+					"Lipton",
+					"Astro",
+					"Nickelodeon",
+					"Novartis",
+					"Rogers Media",
+					"Chatelaine",
+					"Kraft"
+                ]
+		}
+	]
+}

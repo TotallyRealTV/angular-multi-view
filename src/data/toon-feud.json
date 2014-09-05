@@ -1,0 +1,70 @@
+{
+    "title": "Toon Feud",
+    "subTitle": "Spring 2013",
+    "role": "Lead Backend Developer for this Teletoon Retro Trivia Game",
+    "url": "http://www.teletoonretro.com/en/games/toon-feud/",
+    "gallery": [
+        {
+			"src":"images/large/tf0.png",
+			"desc":"Toon Feud"
+		},
+		{
+			"src":"images/large/tf1.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf2.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf3.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf4.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf6.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf7.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf8.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf9.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf10.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf11.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/tf12.png",
+			"desc":"Camp Teletoon"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "I designed and developed an API and CMS that allows us to:",
+            "items": [
+                "create questions, which create sets of questions, which create games",
+		    	"create and assign badges that users can play to earn",
+		    	"schedule specific games to coincide with television events",
+		    	"let users log in to play through Facebook",
+		    	"store a user's score and badges earned for each game, as well as aggregately for overally rankings",
+                "share badges to Facebook"
+            ]
+        }
+    ]
+}

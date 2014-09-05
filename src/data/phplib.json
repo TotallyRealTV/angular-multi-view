@@ -1,0 +1,25 @@
+{
+    "title": "php Libraries",
+    "subTitle": "February 2012 - January 2014",
+    "role": "Developer",
+    "url": "",
+    "details": [
+        {
+            "title": "",
+            "description": "this suite of php classes allows us to execute common tasks without having to write the full code every time. The libraries are used in our API and CMS implementations. Library features are: ",
+            "items": [
+                "Database Interaction: a PDO layer that is abstracted from an implementation by a strategy pattern routes a MySQL request by its type (SELECT, SELECT COUNT, SELECT COUNT UNION, CREATE, SHOW CREATE, INSERT, UPDATE, DELETE). Each type allows optional query paramters to be set (WHERE, LIKE, ORDER BY, GROUP BY, GREATER/LESS THAN, LIMIT)",
+		    "Directory Manipulation: create & delete directories",
+                "File Upload: upload a file to either a location on the server or to Amazon S3",
+		    "Forms: server-side form data valiation strategy",
+		    "Language Filter: checks a range of data against a list of bad words and an extrapolated range of those words with natural alpha-numeric substitutions",
+		    "Output Manager: can return output to a caller as JSON, XML or string data",
+                "Sendmail: provides the option of sending a multi-part or plain text email",
+                "Site: a class for each brand (Teletoon, Cartoon Network, Retro, Adult Swim) that defines the unique properties each brand requires to work within our API and CMS implemented. Access of governed by a strategy pattern",
+		    "Video: a group of classes that instance and tap into the Brightcove API",
+		    "General / utilities: encoding, object, string, and array manipulation functions",
+		    "Debug: functions to output objects, strings, and arrays as well as their locations in a class or method"
+		]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+<!--div style="width:100%" class="fade" ng-class="{in:data.details.length}"-->
+<div style="width:100%">
+    <div class="projectHead product">
+        
+        <div id="projectNav">
+            <a ng-show="prevID && prevID != ''" href="#!/project/{{prevID}}" class="prev">previous</a>
+            <span>&nbsp;&nbsp;
+            <a ng-show="nextID && nextID != ''" href="#!/project/{{nextID}}" class="next">next</a>
+        </div>
+        
+        <div class="wrap">
+            <div class="text left">
+                <h1>{{data.title}}</h1>
+                <h2>{{data.subTitle}}</h2>
+                <h3>Project Role: {{data.role}}</h3>
+				<p><span ng-show="data.url && data.url != ''"><a href="{{data.url}}" target="_blank">Visit</a></span>
+                
+                <div class="details" data-size="{{data.details.length}}" ng-repeat="item in data.details">
+                    <h4>{{item.title}}</h4>
+                    <p>{{item.description}}</p>
+                    
+                    <div class="itemsList">
+                    	<ul ui-if="!!item.items.length">
+                            <li ng-repeat="listItem in item.items">{{listItem}}</li>
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+            
+            <div class="container slider" ng-show="data.gallery && data.gallery.length > 0" data-size="{{data.gallery.length}}">
+                <img ng-repeat="slide in data.gallery" class="slide slide-animation nonDraggableImage"
+                     ng-swipe-right="nextSlide()" ng-swipe-left="prevSlide()"
+                     ng-hide="!isCurrentSlideIndex($index)" ng-src="{{slide.src}}">
+            
+                <a class="arrow prev" href="" ng-click="nextSlide()"></a>
+                <a class="arrow next" href="" ng-click="prevSlide()"></a>
+                <nav class="galleryNav">
+                    <div class="wrapper">
+                        <ul class="dots">
+                            <li class="dot" ng-repeat="slide in data.gallery">
+                                <a href="" ng-class="{'active':isCurrentSlideIndex($index)}" ng-click="setCurrentSlideIndex($index);">{{slide.desc}}</a>
+														</li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+    </div>
+</div>

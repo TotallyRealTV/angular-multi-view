@@ -1,0 +1,18 @@
+{
+    "title": "Game Play Stats System",
+    "subTitle": "August 2012 - January 2014",
+    "role": "Designed and developed a system that publishes game play stats reports for Teletoon, Teletoon Retro, Toon Feud, Cartoon Network and Adult Swim",
+    "url": "",
+    "details": [
+        {
+            "title": "",
+            "description": "Our SMS archives game play stats by the month, allowing us to:",
+            "items": [
+            	"analyze: track how our overall game content engagement is trending",
+		    	"publish: export our stats by brand",
+		    	"customize: we can publish a full fiscal year or a quarter of all games, some games or one game",
+                "review: our data exports are available for viewing through our visual stats app that leverages Google Charts for a clearer picture"
+            ]
+        }
+    ]
+}

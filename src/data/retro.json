@@ -1,0 +1,26 @@
+{
+    "title": "Teletoon Retro",
+    "subTitle": "Winter 2013",
+    "role": "Lead Developer for the redesign of TeletoonRetro.com",
+    "url": "http://www.teletoonretro.com/",
+    "gallery": [
+        {
+			"src":"images/large/retro0.png",
+			"desc":"Teletoon Retro"
+		},
+		{
+			"src":"images/large/retro1.png",
+			"desc":"Camp Teletoon"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "Features: ",
+            "items": [
+                "extended our CMS system to ingest, manage and publish Teletoon Retro specific data such as games and TV Shows",
+		    "extended our high score API in order to work with legacy Flash & Shockwave game play tracking requirements"
+		]
+        }
+    ]
+}

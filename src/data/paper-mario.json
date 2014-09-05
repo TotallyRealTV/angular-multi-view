@@ -1,0 +1,15 @@
+{
+    "title": "Paper Mario: Sticker Star Promotion",
+    "subTitle": "Fall 2012",
+    "role": "Developed Contest Microsite.",
+    "url": "http://www.teletoon.com/contests/2012_10_paperMarioStickerStar/",
+    "details": [
+        {
+            "title": "",
+            "description": "Features: ",
+            "items": [
+                "jQuery drag & drop activity: users can drag different cards into different slots to display a certain video"
+		]
+        }
+    ]
+}

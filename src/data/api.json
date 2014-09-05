@@ -1,0 +1,19 @@
+{
+    "title": "API",
+    "subTitle": "February 2012 - January 2014",
+    "role": "Designed and developed an API that we use across Teletoon, Teletoon Retro, Cartoon Network and Adult Swim.",
+    "url": "",
+    "details": [
+        {
+            "title": "",
+            "description": "The API is designed to assume that anything that calls it is essentially a view of an MVC pattern. As such, it is scalable both in terms adding new sections and extending existing sections. The API currently manages:",
+            "items": [
+                "game play tracking (creating, updating, high score display)",
+		    "rating a piece of content, currently implemented in games on Cartoon Network",
+                "user polls (submitting, retrieving results)",
+                "custom link tracking, such as when a user clicks on the Rules & Regulations of a contest",
+                "image galleries: retrieves a range of data from a specified database table according to pagination parameters set by a client"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#user_name# has sent an email from the portfolio site with the following message:\r\n
+
+#data#
+

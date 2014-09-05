@@ -1,0 +1,17 @@
+{
+    "title": "ROXX Promotion",
+    "subTitle": "Fall 2012",
+    "role": "Developed Contest Microsite.",
+    "url": "http://www.teletoon.com/contests/2012_10_ROXX/",
+    "details": [
+        {
+            "title": "",
+            "description": "Features: ",
+            "items": [
+                "jQuery drag & drop image creator: users can drag different types of ROXX onto a canvas",
+		    	"image generation (php): a final image is generated on the server once the user submits it",
+		    	"Amazon S3: the image is stored on Amazon S3 through our S3 php library class"
+            ]
+        }
+    ]
+}

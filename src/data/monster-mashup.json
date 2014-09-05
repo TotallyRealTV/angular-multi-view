@@ -1,0 +1,36 @@
+{
+    "title": "Monster Mashup",
+    "subTitle": "Fall 2013",
+    "role": "Principle Developer for this Teletoon Halloween promotion, where users build their own monster avatar to enter a contest.",
+    "url": "http://www.teletoon.com/en/contests/2013_10_monsterMashup/",
+    "gallery": [
+        {
+			"src":"images/large/monster-mashup0.png",
+			"desc":"Monster Builder"
+		},
+		{
+			"src":"images/large/monster-mashup1.png",
+			"desc":"Build your Monster"
+		},
+		{
+			"src":"images/large/monster-mashup2.png",
+			"desc":"Submit your Monster"
+		},
+		{
+			"src":"images/large/monster-mashup3.png",
+			"desc":"Monster Gallery"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "Features:",
+            "items": [
+                "Actionscript 3 avatar builder tool, where users can customize body parts and colours",
+		    	"php image generation from client-side ByteArray data",
+                "image storage on Amazon S3",
+                "image gallery component"
+            ]
+        }
+    ]
+}

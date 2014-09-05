@@ -1,0 +1,18 @@
+{
+    "title": "Bratzillaz Promotion",
+    "subTitle": "Fall 2012",
+    "role": "Developed Contest Microsite.",
+    "url": "http://www.teletoon.com/contests/2012_11_bratzillaz/",
+    "details": [
+        {
+            "title": "",
+            "description": "Features: ",
+            "items": [
+                "jQuery drag & drop scene creator: users could drag the Bratzillaz and various accessories onto a scene of their choice",
+		   		"image generation: users images were generated on the server before being stored on Amazon S3",
+                "Amazon S3: user images were stored in the cloud",
+				"user poll & user comment modules"
+		]
+        }
+    ]
+}

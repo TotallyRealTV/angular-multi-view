@@ -1,0 +1,18 @@
+{
+    "title": "Content Management System",
+    "subTitle": "April 2012 - January 2014",
+    "role": "Designed and developed a CMS that we use across Teletoon, Teletoon Retro, Cartoon Network and Adult Swim.",
+    "url": "",
+    "details": [
+        {
+            "title": "",
+            "description": "Our CMS was designed with one over-arching thought in mind - that its data will always live in three places: the database, in a form and on a published page. Everything else is subject to change as our needs require. The CMS manages the following:",
+            "items": [
+                "content groups: abstract data to which a game and TV show must belong. We create our own groups as needed",
+		    "game content (swf, Shockwave, Unity) that can exist in a number of different template types. Across our four sites, we have roughly 800 game records under management",
+		    "TV show content: easily the most disparate type of content across our TV properties. Teletoon's TV show pages, for example, can be published according to three different template types; Cartoon Network shows, on the other hand, are more like microsites",
+                "video: we tap directly into the Brightcove API to allow our content people to create video records, upload the videos and manage their own playlists"
+            ]
+        }
+    ]
+}

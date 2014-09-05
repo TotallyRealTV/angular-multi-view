@@ -1,0 +1,23 @@
+{
+    "title": "Cartoon Network",
+    "subTitle": "Spring / Summer 2012",
+    "role": "Designed and developed the initial content CMS to publish Cartoon Network Games and TV Show Pages.",
+    "url": "http://www.cartoonnetwork.ca",
+    "gallery": [
+        {
+			"src":"images/large/cn0.png",
+			"desc":"Cartoon Network"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "Features:",
+            "items": [
+                "create and publish Cartoon Network Game records and pages",
+		    	"create and publish Cartoon Network TV Show Microsites",
+                "developed content rating system for games pages"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Adult Swim",
+    "subTitle": "Summer 2012",
+    "role": "Developed the Adult Swim Canada site over a period of four days in late June, 2012.",
+    "url": "http://www.adultswim.ca",
+    "gallery": [
+        {
+			"src":"images/large/as0.png",
+			"desc":"Adult Swim Canada"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "Features:",
+            "items": [
+                "create and publish Adult Swim Game records and pages",
+		    	"create and publish Adult Swim TV Show pages",
+                "developed site framework and other ancilliary pages"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "THWARP! Game Engine",
+    "subTitle": "Fall 2011",
+    "role": "Developed an Actionscript 3 game framework that was deployed across three THWARP titles: Escape from the GRUEL School, the Halloween Special and Panic at the Pickle Plant",
+    "url": "http://www.teletoon.com/en/games/thwarp/episodeOne/",
+    "gallery": [
+        {
+			"src":"images/large/thwarp00.png",
+			"desc":"THWARP! Episode 1: Escape from the GRUEL School"
+		},
+		{
+			"src":"images/large/thwarp10.png",
+			"desc":"THWARP! Episode 2: Panic at the Pickle Plant"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "A side-scrolling action game with the following features:",
+            "items": [
+                "multiple levels",
+		    	"character selection",
+                "weapons",
+                "various types of enemies",
+		    	"checkpoints to determine level completion",
+                "parallax engine to manage foreground, middle ground and background scenery",
+				"platform collision detection",
+				"XML-based levels, heroes, enemies and power-ups"
+            ]
+        }
+    ]
+}

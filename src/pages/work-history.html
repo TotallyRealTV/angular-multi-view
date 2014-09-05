@@ -1,0 +1,22 @@
+<!-- work history -->
+<!--div style="width:100%" class="fade" ng-class="{in:data.items.length}"-->
+<div style="width:100%">
+    <div class="projectHead product">
+        <div class="wrap">
+						 <!-- wh item -->
+						 <section data-size="{{data.items.length}}" ng-repeat="item in data.items">
+                <div class="txt">
+                    <h2 class="subHead">{{item.title}}</h2>
+										<h3>{{item.subTitle}}</h3>
+										<p><b>Position: </b>{{item.position}}</p>
+										<p>{{item.description}}</p>
+										<div class="itemsList" data-size="{{item.details.length}}">
+                    		 <ul ui-if="!!item.details.length">
+                         		 <li ng-repeat="detailItem in item.details track by $index">{{detailItem}}</li>
+                    		 </ul>
+                    </div>
+                </div>
+            </section>
+				</div>
+    </div>	
+</div>

@@ -1,0 +1,25 @@
+{
+	"title": "About",
+	"items":[
+		{
+    			"title": "A bit about me (at work)...",
+    			"description": "I love solving puzzles and the comfort of properly abstracted, encapsulated and tested code. I love design patterns, particularly Factory, Strategy, Adapter, MVC, State, Decorator... fortunately, the majority of work I do allows me to implement them. I'm also fortunate to work in a setting where ego takes a back seat to honesty in pursuit of the best result; where I'm trusted with the responsibility to succeed in my work. I love modelling the logic of a project and then building it back to front. Here's the requisite laundry list of what I do:",
+            	"details": [
+                	"languages & data: php, mySQL, Angular.js, jQuery, Javascript, css, Actionscript 3, Objective-C, JSON, XML",
+					"storage & delivery: Amazon S3, Brightcove, Akamai, Kiln, WinSCP, FTP, SourceTree, Tortoise",
+					"APIs: Amazon S3, Brightcove, Facebook, Twitter, Bit.ly, Google Analytics, Google Charts, Site Catalyst",
+					"authoring: Adobe Master Collection CS5.5(Flash, Dreamweaver, Flash Develop... even Photoshop in a pinch), Microsoft Office, Google Drive"
+                	]
+		},
+		{
+    			"title": "A bit about me (at home)...",
+    			"description": "I live in southwest Scarborough with my lovely wife, Amanda, and two-year-old daughter, Severen. Our kid, being ours, is wilful, obdurate, precocious, sweet and delightful; we wouldn't have it any other way. I'm originally from West Yorkshire, UK, which explains my lifelong love of Leeds United Football Club, British pop music, Doctor Who and a tendency to slip into my old dialect. So, when ah'm not working down t'mill, ah ten'ta:",
+            	"details": [
+                	"try to keep up with our daughter",
+					"cycle, hike (in the summer)",
+					"improve the inside and outside of our house, when time allows",
+                	"long for springtime (in the winter)"
+                	]
+		}
+	]
+}

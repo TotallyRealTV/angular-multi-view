@@ -1,0 +1,31 @@
+{
+    "title": "Something Funny",
+    "subTitle": "Summer 2013",
+    "role": "Lead Developer for this Teletoon Summer promotion, where users rated a series of weekly clips to enter a contest.",
+    "url": "http://www.teletoon.com/en/contests/2013_08_somethingFunny/",
+    "gallery": [
+         {
+			"src":"images/large/something-funny0.png",
+			"desc":"Date-sensitive navigation"
+		},
+		{
+			"src":"images/large/something-funny1.png",
+			"desc":"lol"
+		},
+		{
+			"src":"images/large/something-funny2.png",
+			"desc":"groan"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "Features:",
+            "items": [
+                "Time-based navigation that automatically revealed new clips at the beginning of a week",
+		    "Sequenced video voting whereby the user would watch a video and then choose if they liked it or not",
+		    "User-choices were collected and stored in order to show the most, and least, funny videos after entering the contest"
+            ]
+        }
+    ]
+}

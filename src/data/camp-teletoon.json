@@ -1,0 +1,51 @@
+{
+    "title": "Camp Teletoon API",
+    "subTitle": "Summer 2013",
+    "role": "Designed and developed the API for Teletoon.com's flagship summer promotion: Camp Teletoon.",
+    "url": "",
+    "gallery": [
+        {
+			"src":"images/large/camp-teletoon0.png",
+			"desc":"Landing Screen"
+		},
+		{
+			"src":"images/large/camp-teletoon1.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/camp-teletoon2.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/camp-teletoon3.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/camp-teletoon4.png",
+			"desc":"Camp Teletoon"
+		},
+		{
+			"src":"images/large/camp-teletoon5.png",
+			"desc":"Camp Teletoon"
+		}
+	],
+    "details": [
+        {
+            "title": "",
+            "description": "The php API managed all user registration, progress, scoring and contest entries over the nine-week duration of Camp Teletoon, specifically:",
+            "items": [
+                "creating user accounts",
+				"storing user avatar data",
+                "returning code-based power-ups for the main game",
+                "storing user progress by stage, overall stages, in both whole numbers and decimal percentages",
+                "tracking user game play statistics by stage, and overall, as a key metric of success",
+                "storing user contest entries by stage, and overall, as a key metric of success",
+                "awarding bonus entries based on a user's proximity to completing a stage",
+                "determining a user's rank, by stage and overall",
+				"another one",
+				"then another",
+				"determining the nearest users either side of the current user in order to plot along a quadratic curve"
+            ]
+        }
+    ]
+}

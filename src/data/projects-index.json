@@ -1,0 +1,127 @@
+{
+    "title": "Recent Work",
+	"items":[
+		{
+			
+			"id":"monster-mashup",
+			"title":"MONSTER MASHUP AVATAR BUILDER",
+			"description":"Fall 2013",
+			"src":"images/thumbs/monster-mashup.png",
+			"height":"163",
+			"dataSize":"1"
+		},
+		{
+			
+			"id":"something-funny",
+			"title":"Something Funny",
+			"description":"Fall 2013",
+			"src":"images/thumbs/something-funny.png",
+			"height":"223",
+			"dataSize":"1"
+		},
+		{
+			"id":"camp-teletoon",
+			"title":"CAMP TELETOON",
+			"description":"Summer 2013",
+			"src":"images/thumbs/camp-teletoon.png",
+			"height":"163",
+			"dataSize":"1"	
+		},
+		{
+			"id":"toon-feud",
+			"title":"TOON FEUD",
+			"description":"Winter / Spring 2013",
+			"src":"images/thumbs/toonfeud.jpg",
+			"height":"223",
+			"dataSize":"1"	
+		},
+		{
+			"id":"retro",
+			"title":"Teletoon Retro",
+			"description":"Winter 2013",
+			"src":"images/thumbs/retro.png",
+			"height":"124",
+			"dataSize":"1"		
+		},
+		{
+			"id":"api",
+			"title":"Multi-brand API",
+			"description":"February 2012 - January 2014",
+			"src":"images/thumbs/api.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{
+			"id":"cms",
+			"title":"Multi-brand Content Management",
+			"description":"April 2012 - January 2014",
+			"src":"images/thumbs/cms.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{
+			"id":"sms",
+			"title":"Multi-brand Stats Management",
+			"description":"June 2012 - January 2014",
+			"src":"images/thumbs/sms.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{
+			"id":"phplib",
+			"title":"php libraries",
+			"description":"February 2012 - January 2014",
+			"src":"images/thumbs/phplib.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{		
+			"id":"bratzillaz",
+			"title":"Bratzillaz",
+			"description":"Fall 2012.",
+			"src":"images/thumbs/contests.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{		
+			"id":"roxx",
+			"title":"ROXX Promotion",
+			"description":"Fall 2012.",
+			"src":"images/thumbs/contests.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{
+			"id":"paper-mario",
+			"title":"Paper Mario Promotion",
+			"description":"Fall 2012",
+			"src":"images/thumbs/contests.png",
+			"height":"100",
+			"dataSize":"1"	
+		},
+		{
+			"id":"cn",
+			"title":"Cartoon Network",
+			"description":"Summer 2012",
+			"src":"images/thumbs/cn.jpg",
+			"height":"231",
+			"dataSize":"1"	
+		},
+		{
+			"id":"as",
+			"title":"Adult Swim",
+			"description":"Summer 2012",
+			"src":"images/thumbs/as.jpg",
+			"height":"147",
+			"dataSize":"1"	
+		},
+		{
+			"id":"thwarp",
+			"title":"Thwarp! Game Engine",
+			"description":"Summer - Fall 2011.",
+			"src":"images/thumbs/thwarp.jpg",
+			"height":"116",
+			"dataSize":"1"	
+		}
+	]
+}
